@@ -1,1 +1,0 @@
-GRANT ALL PRIVILEGES ON my_laravel_react.* To 'my-laravel-react'@'localhost' IDENTIFIED BY 'password';
